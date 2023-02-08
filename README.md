@@ -1,7 +1,4 @@
 # hotel-alura-jc-g3
-JAVA Hotel Project
-
-# hotel-alura-jc-g3
 JAVA Project: Hotel Alura
 
 ## Regular Expressions
